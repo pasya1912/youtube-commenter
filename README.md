@@ -10,6 +10,3 @@ Masih banyak kekurangan ya gaes + belum bisa Multi Keyword karena ganyampe logic
 3. Edit in file change the userDataDir to your profile dir
 4. Now open cmd > node ytcomment.js
 
-
-# DONATION
-OVO : 081932656007
